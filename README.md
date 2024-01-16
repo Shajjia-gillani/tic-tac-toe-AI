@@ -24,7 +24,7 @@
 <h3 align="center"><b>Show 💘 by Starring this Repo</b></h3>
 
 ---
-<h3 align="center">💡 <b>Important Links</b> 💡</h3>
+<h3 align="center"
 
 - #### [Click Here to See the Project Video](https://youtu.be/eDpWs09ZGvI)
 
